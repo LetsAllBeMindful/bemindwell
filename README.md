@@ -3,7 +3,7 @@ BeMindWell - A comprehensive mental health and wellness app for iOS, Android, an
 [Uploading README.m# BeMindWell - Mental Health & Wellness App
 
 <p align="center">
-  <img src="https://d64gsuwffb70l.cloudfront.net/6896d60c4a42e05f0c804a92_1758808797233_e01de7bf.webp" alt="BeMindWell Logo" width="200"/>
+9  <img src="https://d64gsuwffb70l.cloudfront.net/6896d60c4a42e05f0c804a92_1758808797233_e01de7bf.webp" alt="BeMindWell Logo" width="200"/>
 </p>
 
 <p align="center">
