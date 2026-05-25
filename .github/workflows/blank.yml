@@ -1,6 +1,5 @@
   name: SwiftLint Tool
-    # uses: StanfordBDHG/action-swiftlint@234b29234afef1ae74ee94b915c41484bddb7f17  
-    version: # default is latest
+  version: # default is latest
     # Arguments to SwiftLint.
     args: The working directory relative to the base `checkout` directory
     working-directory: default 
