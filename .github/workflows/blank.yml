@@ -1,8 +1,6 @@
   name: SwiftLint Tool
   # You may pin to the exact commit or the version.
-  # uses: StanfordBDHG/action-swiftlint@234b29234afef1ae74ee94b915c41484bddb7f17
-  uses: StanfordBDHG/action-swiftlint
-  with:    
+  # uses: StanfordBDHG/action-swiftlint@234b29234afef1ae74ee94b915c41484bddb7f17  
         # A SwiftLint version to use
     version: # default is latest
     # Arguments to SwiftLint.
